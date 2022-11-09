@@ -3,3 +3,8 @@
 .idea
 readme.md
 
+docker/fast_api/Dockerfile
+docker/fast_api/deps/reqs
+docker/fast_api/src/app.py
+docker/fast_api/src/model/liveness.py
+docker/fast_api/src/model/bounce.py
