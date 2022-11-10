@@ -9,3 +9,12 @@ docker/fast_api/src/app.py
 docker/fast_api/src/model/liveness.py
 docker/fast_api/src/model/bounce.py
 docker/docker-compose.yml
+docker/fluentd/Dockerfile
+docker/fluentd/conf/fluent.conf
+docker-fa2/docker-compose.yml
+docker-fa2/echo-svc-rs.json
+docker-fa2/fast_api/Dockerfile
+docker-fa2/fast_api/src/app.py
+docker-fa2/fast_api/src/model/liveness.py
+docker-fa2/fast_api/src/model/bounce.py
+docker-fa2/fast_api/deps/reqs
