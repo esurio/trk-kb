@@ -18,3 +18,8 @@ docker-fa2/fast_api/src/app.py
 docker-fa2/fast_api/src/model/liveness.py
 docker-fa2/fast_api/src/model/bounce.py
 docker-fa2/fast_api/deps/reqs
+docker/fluentd/docker-compose.yml
+docker/fluentd/conf/echo_server/dev/match.conf
+docker/fluentd/conf/echo_server/dev/source.conf
+docker/fluentd/conf/fast_api/dev/match.conf
+docker/fluentd/conf/fast_api/dev/source.conf
